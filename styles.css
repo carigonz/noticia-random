@@ -1,12 +1,13 @@
 /* reseteos generales */
 *{
     box-sizing: border-box;
-    background-color:   #fafafa;
-}
-ul, ol {
     padding: 0;
     margin: 0;
 }
+/*ul, ol {
+    padding: 0;
+    margin: 0;
+}*/
 li {
     list-style: none;
 }
@@ -19,7 +20,7 @@ body{
     height: 100%;
     font-family: 'Varela Round', 'Courier New', Courier, monospace;
     font-size: 18px;
-    
+    background-color:   #fafafa;
 
 }
 
