@@ -63,7 +63,7 @@ h1,h2,h3, p{
     flex-wrap: wrap;
     flex-direction: row;
 }
-nav ul li{
+.lista{
     margin-left: 60px;
     display: inline-block;
     padding: 10px 20px;
