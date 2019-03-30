@@ -72,3 +72,14 @@ nav ul li:hover{
     color: blue;
     text-decoration: underline;
 }
+
+.footer-perfil{
+
+}
+hr{
+    margin-top: 45px;
+    border: 0.5px solid;
+    color:#808080;
+    width: 80%;
+    opacity: 0.3.;
+}
