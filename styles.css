@@ -85,6 +85,8 @@ nav ul li:hover{
 
 }
 hr{
+    float:left;
+    display:block;
     margin-top: 45px;
     border: 0.5px solid;
     color:#808080;
@@ -104,6 +106,10 @@ img{
 
 
 }
-.footer{
-display: block;
-}
+
+footer {
+	float: left;
+	display: block;
+	width: 100%;
+	height: auto;
+ }
