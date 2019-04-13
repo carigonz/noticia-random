@@ -29,7 +29,6 @@ h1{
 h2{
     font-size: 1.75em;
     font-family: 'Open Sans', sans-serif;
-    font-family: 'Slabo 27px', serif;
     font-weight: bold;
     
 
@@ -38,8 +37,6 @@ h2{
 h3{
     font-size:1.4em;
     font-family: 'Open Sans', sans-serif;
-    font-family: 'Slabo 27px', serif;
-    font-family: 'Poppins', sans-serif;
     font-weight: bold;
     text-transform: uppercase;
 
@@ -56,9 +53,15 @@ h1,h2,h3, p{
 
 }
 
-.conteiner{
-    margin: 0px 15px;
+.principal{
+    
+    float:left;
+    width: 65%;
+
+    
+   
 }
+
 .titulo{
     font-size: 70px;
     color: #4b1dca;
@@ -80,8 +83,6 @@ nav ul li:hover{
     text-decoration: underline;
 }
 
-.footer-perfil{
-
 }
 hr{
     margin-top: 45px;
@@ -95,4 +96,14 @@ hr{
 img{
     max-width: 100%;
     height: auto;
+}
+.titulos-articulos{
+    float:left;
+    width: 35%;
+
+
+
+}
+.footer{
+display: block;
 }
